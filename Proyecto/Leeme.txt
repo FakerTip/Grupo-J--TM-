@@ -1,0 +1,9 @@
+Integrantes: Norman Miranda
+Titulo del tema propuesto: Programación ituitiva con el uso de videojuegos
+Resumen: Este proyecto se basa en el aprendisaje de los conceptos básicos de programación utilizando exclusivamente 
+como ejemplo los videojuegos. No solo se trata de programar algo concreto(el juego) si no también investigar cómo algo
+que podemos observar va cambiando a medida que implementamos conceptos de menor a mayor complejidad. En resumen el objetivo
+es aprender a programar usando algo simple, pero intuitivo(que podamos visualizar). Para ello usaremes el lenguaje de 
+programación Python, debido a la simpleza de su sintaxis, y cumple con los requisitos de este proyecto. El entorno 
+seleccionado aun no está decidido, pero se están considerando usar Atom, Sublime Text o NetBeans. Sistema operativo 
+Linux Xubuntu. Y para gestionar el proyecto Github.
